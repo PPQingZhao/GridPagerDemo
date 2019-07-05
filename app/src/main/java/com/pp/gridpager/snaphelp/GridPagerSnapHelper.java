@@ -27,6 +27,7 @@ public class GridPagerSnapHelper extends SnapHelper {
     private int rowCount = 1;
     private int columCount = 1;
 
+
     public GridPagerSnapHelper(int colum, int row) {
         this.columCount = colum;
         this.rowCount = row;
