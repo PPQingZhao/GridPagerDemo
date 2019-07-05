@@ -3,4 +3,7 @@
 
 运行截图：
 
-<img src="https://github.com/PPQingZhao/scaletimebar/blob/master/screenshots/Screenshot_20190325-165929.jpg" width="400"/>
+<img src="https://github.com/PPQingZhao/GridPagerDemo/blob/master/screenshots/1.jpg" width="400"/>
+
+
+<img src="https://github.com/PPQingZhao/GridPagerDemo/blob/master/screenshots/2.jpg" width="400"/>
